@@ -1,5 +1,9 @@
 const express = require('express');
 const bodyParser = require('body-parser');
+//const mongoose = require('mongoose');
+//const keys = require('./confing/keys');
+//mongoose.connect(keys.mongoConnection);
+
 
 const app = express();
 
